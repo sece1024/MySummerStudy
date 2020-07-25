@@ -11,3 +11,7 @@
 ## 2020.7.24
 * 时间预测
 *ARMA.ipynb*
+
+## 2020.7.25
+* 简单爬取网页内容
+*mySpider_re_people.com.cn*
