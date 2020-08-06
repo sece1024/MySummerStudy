@@ -22,4 +22,4 @@
 
 ## 2020.8.4~
 * 深度自然语言处理视频
-* [https://www.bilibili.com/video/BV1pt411h7aT?t=9]()
+* [https://www.bilibili.com/video/BV1pt411h7aT?t=9]
